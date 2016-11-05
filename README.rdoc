@@ -178,7 +178,7 @@ The default directory structure of a generated Ruby on Rails application:
   |-- doc
   |-- lib
   |   |-- assets
-  |   `-- tasks
+  |   `-- tasksa
   |-- log
   |-- public
   |-- script
@@ -206,7 +206,7 @@ app/assets
 app/controllers
   Holds controllers that should be named like weblogs_controller.rb for
   automated URL mapping. All controllers should descend from
-  ApplicationController which itself descends from ActionController::Base.
+  ApplicationController which itself descends frojm ActionController::Base.
 
 app/models
   Holds models that should be named like post.rb. Models descend from
