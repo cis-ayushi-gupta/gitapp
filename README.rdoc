@@ -1,5 +1,5 @@
 == Welcome to Rails
-<<<<<<< Updated upstream
+<<<<<<< Updated upsqtream
 =======
 <<<<<<< HEAD
 test11
