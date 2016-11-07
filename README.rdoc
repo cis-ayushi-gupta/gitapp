@@ -1,10 +1,14 @@
 == Welcome to Rails
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 test111
 =======
 =======
 <<<<<<< Updated upstream
+=======
+<<<<<<< Updated upsqtream
+>>>>>>> mybranch1
 =======
 <<<<<<< HEAD
 test11
