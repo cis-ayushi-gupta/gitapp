@@ -1,7 +1,16 @@
 == Welcome to Rails
 <<<<<<< HEAD
+<<<<<<< HEAD
 test111
 =======
+=======
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+test11
+=======
+>>>>>>> Stashed changes
+>>>>>>> mybranch1
 t
 >>>>>>> mybranch1
 Rails is a web-application framework that includes everything needed to create
